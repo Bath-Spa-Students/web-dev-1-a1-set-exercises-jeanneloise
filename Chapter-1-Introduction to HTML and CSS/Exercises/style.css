@@ -1,0 +1,109 @@
+.head{
+    text-align: center;
+    background-color: rgb(211, 99, 29);
+    border: 0cm;
+    border-radius: 12px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+
+.img-pizza{
+  block-size: 260px;
+  float: right;
+  margin-right: 1%;
+  margin-top: -2.50%;
+  margin-bottom: -2%;
+
+   
+}
+
+.front{
+    background-color: aliceblue;
+    margin-bottom: 6%;
+}
+
+.description{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:left;
+   
+    
+}
+
+
+.Ingredients{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(211, 99, 29);
+    border: 0cm;
+    border-radius: 9px;
+  
+}
+.blackqoute{
+    display: block;
+    margin-top: 4em;
+    margin-bottom: 1em;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+
+}
+.font1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+
+.font{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.directions{
+    background-color: rgb(211, 99, 29);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.background{
+    background-color: rgb(221, 188, 167);
+}
+
+.step1{
+    display: block;
+   block-size: 300px;
+}
+
+.step2{
+    display: block;
+   block-size: 300px;
+
+}
+
+.step3{
+    display: block;
+   block-size: 300px;
+
+}
+
+.step4{
+    display: block;
+   block-size: 300px;
+
+}
+
+.step5{
+    display: block;
+   block-size: 300px;
+
+}
+
+.step6{
+    display: block;
+   block-size: 300px;
+
+}
+
+.step7{
+    display: block;
+   block-size: 300px;
+
+}
