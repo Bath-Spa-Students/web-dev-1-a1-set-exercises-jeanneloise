@@ -1,0 +1,131 @@
+ul{
+    
+    list-style-type:none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: rgb(56, 66, 62);
+   position: fixed;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+li{
+    float:left
+}
+li a {
+    display: block;
+    color: rgb(201, 196, 51);
+    text-align: center;
+    padding:14px 16px;
+    text-decoration: none;  
+}
+
+li a:hover:not(.active) {
+    background-color: rgb(94, 148, 148);
+  
+   
+}
+.active{
+    background-color: rgb(33, 92, 67);
+}
+
+
+
+.argylle{
+    float: left;
+    display: block;
+    margin-right: 400px;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.blockquote{
+    float: right;
+    display: block;
+    margin-left: 350px;
+    
+}
+.head1{
+   
+    text-align:left; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:400%;
+    
+    height: 70px;
+}
+
+.about{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.plot{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.right{
+    float: right;
+    margin-top: -930px;
+   
+}
+
+
+table{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-collapse:collapse;
+    width: 80%;
+
+}
+
+td, th{
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 3px;
+}
+
+tr:nth-child(even){
+    background-color: #ffffff;
+}
+
+.peep{
+    margin-right: 350px;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.footer{
+    text-align: center;
+}
+
+.rev{
+    background-color: rgb(200, 223, 214);
+    border: 2px solid rgb(56, 66, 62);
+    padding: 10px;
+    width:auto;
+    height: fit-content;
+    margin: 20px;
+    margin-left: 50px;
+    margin-right: 350px;
+}
+
+.userrev{
+    margin-left: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.checked{
+    color: darkorange;
+}
+
+
+.secrev{
+    background-color: rgb(200, 223, 214);
+    border: 2px solid rgb(56, 66, 62);
+    padding: 10px;
+    width:auto;
+    height: fit-content;
+    margin: 20px;
+    margin-left: 50px;
+    margin-right: 350px;
+}
