@@ -1,0 +1,90 @@
+
+/* diplay the container*/
+.body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(20, 5, 104);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+   
+
+}
+
+
+
+
+
+/* heading*/
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 50px;
+
+}
+/*design for the container*/
+.container{
+    background-color: rgb(234, 45, 45);
+    border-radius: 8px;
+    padding:20px;
+    box-shadow: 10px 10px 100px rgb(82, 7, 7);
+    width: 500px;
+    float: right;
+    
+}
+
+/* structure of the form*/
+form{
+    flex-direction: column;
+    display:grid;
+    margin-bottom: 20px;
+}
+/* design for the white boxes*/
+input{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom:10px ;
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    transition: all 0.5 ease;
+    text-align:center;
+    
+}
+/* the label for the price and liter */
+label{
+   font-size: 18px;
+   margin-bottom: 10px;
+   text-align: center;
+}
+
+
+/*style of the button*/
+button{
+    background-color: orange;
+    color: azure;
+    border: none;
+    padding:10px 20px;
+    border-radius: 10px;
+    width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    cursor:pointer;
+    transition: all 0.5s ease; 
+    
+}
+
+button:hover{
+    background-color: orange;
+    color: rgb(0, 0, 0);
+}
+/* structure for the result or amount*/
+.result{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
