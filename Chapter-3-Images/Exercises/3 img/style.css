@@ -87,3 +87,8 @@
     -webkit-filter:saturate(200%);
     filter:saturate(1-0%);
 }
+
+.bl{
+    margin-left: 390px;
+    margin-right: 390px;
+}
